@@ -40,7 +40,7 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
 
 <table style="width:100%">
   <tr>
-    <td style="background-color: #24292E;"><img src='https://cdn.dribbble.com/users/43762/screenshots/1228762/phone.gif' alt='smartphone' height='250'> </td>
+    <td style="background-color: #24292E;"><img src='https://developers.giphy.com/static/img/api.c99e353f761d.gif' alt='smartphone' height='250'> </td>
     <td style="background-color: #24292E;">
       <a href="https://github.com/MLpGHub"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
        <a href="https://www.xing.com/profile/Michael_Leopold13/cv"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'></a>
