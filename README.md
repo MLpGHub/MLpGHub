@@ -6,7 +6,7 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
 ### Skills and Experience
 <table style="width:100%">
   <tr>
-    <th>💻- PWA | JS/HTML/CSS</th>
+    <th>💻- PWA</th>
     <th>🎮- C# / Java</th>
     <th>📱- Android</th>
   </tr> 
