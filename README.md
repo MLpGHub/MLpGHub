@@ -26,10 +26,20 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
 📫 How to reach me: michael.leopold@mlphome.de  <spacer type="horizontal" width="100" height="100">  ♢  </spacer> ![Profile views](https://gpvc.arturio.dev/MLpGHub)  
 
 
+<!-- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MLpGHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-leopold/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autodesk.svg' alt='autodesk' height='40'>](https://www.autodesk.com )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'>](https://www.adobe.com/products/premiere.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='40'>](https://www.adobe.com/products/aftereffects.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaudition.svg' alt='adobeaudition' height='40'>](https://www.adobe.com/products/audition.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](https://www.adobe.com/products/photoshop.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'>](https://www.raspberrypi.org )
+-->
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MLpGHub&show_icons=true&theme=dark)
+![GitHub metrics](https://metrics.lecoq.io/MLpGHub)  
+
+
 <table style="width:100%">
   <tr>
-    <th><img src='https://cdn.dribbble.com/users/43762/screenshots/1228762/phone.gif' alt='smartphone' height='250'> </th>
-    <th>
+    <th style="background-color: #24292E;"><img src='https://cdn.dribbble.com/users/43762/screenshots/1228762/phone.gif' alt='smartphone' height='250'> </th>
+    <th style="background-color: #24292E;">
       <a href="https://github.com/MLpGHub"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
        <a href="https://www.xing.com/profile/Michael_Leopold13/cv"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'></a>
       <a href="https://www.linkedin.com/in/michael-leopold/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
@@ -41,16 +51,6 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
       <a href="https://www.raspberrypi.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'></a>
     </th>
 </table>
-
-<!-- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MLpGHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-leopold/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autodesk.svg' alt='autodesk' height='40'>](https://www.autodesk.com )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'>](https://www.adobe.com/products/premiere.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='40'>](https://www.adobe.com/products/aftereffects.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaudition.svg' alt='adobeaudition' height='40'>](https://www.adobe.com/products/audition.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](https://www.adobe.com/products/photoshop.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'>](https://www.raspberrypi.org )
--->
-
-![GitHub metrics](https://metrics.lecoq.io/MLpGHub)  
-
-
-
-### Examples of work
 
 
 
