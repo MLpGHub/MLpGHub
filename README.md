@@ -3,6 +3,10 @@
 # Michael Leopold alias MLp
 ## Open Source - Development and Design
 I'm Michael from Germany, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. Currently I'm studying Mediainformatiks at the University of Applied Science Dresden.
+
+🌱 I’m currently learning to create shader programs in lwjgl<br><br>
+📫 How to reach me: <a href="michael.leopold@mlphome.de">michael.leopold@mlphome.de</a> <spacer type="horizontal" width="100" height="100">  ♢  </spacer> ![Profile views](https://gpvc.arturio.dev/MLpGHub)  
+
 ### Skills and Experience
 <table style="width:100%">
   <tr>
@@ -21,11 +25,6 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
     <td>✴️- Lasercutting</td>
   </tr>
 </table>
-
-🌱 I’m currently learning to create shader programs in lwjgl<br><br>
-📫 How to reach me: <a href="michael.leopold@mlphome.de">michael.leopold@mlphome.de</a> <spacer type="horizontal" width="100" height="100">  ♢  </spacer> ![Profile views](https://gpvc.arturio.dev/MLpGHub)  
-
-
 
 <!-- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MLpGHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-leopold/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autodesk.svg' alt='autodesk' height='40'>](https://www.autodesk.com )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'>](https://www.adobe.com/products/premiere.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='40'>](https://www.adobe.com/products/aftereffects.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaudition.svg' alt='adobeaudition' height='40'>](https://www.adobe.com/products/audition.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](https://www.adobe.com/products/photoshop.html )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'>](https://www.raspberrypi.org )
