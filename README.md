@@ -3,13 +3,24 @@
 # Michael Leopold alias MLp
 ## Open Source - Development and Design
 I'm Michael from Germany, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. Currently I'm studying Mediainformatiks at the University of Applied Science Dresden.
-
-### Skills and Experience 
-* 💻- JS / HTML / CSS
-* 🎮- C# / Java
-* 🎥- Adobe Suite
-* 🔌- 3D print / 🧍‍♂️- 3D modeling
-* ✴️- Lasercutting
+### Skills and Experience
+<table style="width:100%">
+  <tr>
+    <th>💻- PWA | JS/HTML/CSS</th>
+    <th>🎮- C# / Java</th>
+    <th>📱- Android</th>
+  </tr> 
+  <tr>
+    <td>🎥- Adobe After Effects</td>
+    <td>🎞️- Adobe Premiere Pro</td>
+    <td>📷- Adobe Photoshop</td>
+  </tr>
+  <tr>
+    <td>🔌- 3D print</td>
+    <td>🧍‍♂️- 3D modeling</td>
+    <td>✴️- Lasercutting</td>
+  </tr>
+</table>
 
 🌱 I’m currently learning to create shader programs in lwjgl<br><br>
 📫 How to reach me: michael.leopold@mlphome.de  <spacer type="horizontal" width="100" height="100">  ♢  </spacer> ![Profile views](https://gpvc.arturio.dev/MLpGHub)  
