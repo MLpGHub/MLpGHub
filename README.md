@@ -2,7 +2,7 @@
 ![Open Source - Development and Design](https://github.com/MLpGHub/MLpGHub/blob/main/images/banner.png)
 # Michael Leopold alias MLp
 ## Open Source - Development and Design
-I'm Michael from Germany, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. Currently I'm studying Mediainformatiks at the University of Applied Science Dresden.
+I'm Michael from Germany, and I do content on Design and Development. I really enjoy learning frameworks and languages like C# and Python, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. Currently I'm studying Mediainformatiks at the University of Applied Science Dresden.
 
 🌱 I’m currently learning to create shader programs in lwjgl<br><br>
 📫 How to reach me: <a href="michael.leopold@mlphome.de">michael.leopold@mlphome.de</a> <spacer type="horizontal" width="100" height="100">  ♢  </spacer> ![Profile views](https://gpvc.arturio.dev/MLpGHub)  
