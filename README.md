@@ -31,11 +31,12 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
 -->
 
 
-
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MLpGHub&show_icons=true&theme=dark)
+-->
 ![GitHub metrics](https://metrics.lecoq.io/MLpGHub)  
 
-
+<div style="background-color: #24292E;">
 <table style="width:100%">
   <tr>
     <th style="background-color: #24292E;"><img src='https://cdn.dribbble.com/users/43762/screenshots/1228762/phone.gif' alt='smartphone' height='250'> </th>
@@ -51,7 +52,7 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
       <a href="https://www.raspberrypi.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'></a>
     </th>
 </table>
-
+</div>
 
 
 
