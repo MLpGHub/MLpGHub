@@ -55,7 +55,9 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
 
 ### Explore and fun section
 This is the part in my profile where i try short and funny projects to show up some intresting content. Feel free to ignore everthing beneath this topic or just enjoy. :grinning:
-
-
+<!--
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579)
+-->
+[![Spotify](https://spotify-readme-nu.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579)
 
 
