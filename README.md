@@ -59,4 +59,4 @@ This is the part in my profile where i try short and funny projects to show up s
 [![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579)
 [![Spotify](https://spotify-readme-nu.vercel.app/api/spotify)](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579) -->
 
-[<img src="https://vercel.com/mlpghub/now-playing-spotify/api/spotify-playing" alt="MySpotify" width="350" />](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579)
+[<img src="https://now-playing-spotify.mlpghub.vercel.app/api/spotify-playing" alt="MySpotify" width="350" />](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579)
