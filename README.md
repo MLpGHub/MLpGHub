@@ -53,6 +53,8 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
   </td>
 </table>
 
+### Explore and fun section
+This is the part in my profile where i try short and funny projects to show up some intresting content. Feel free to ignore everthing beneath this topic or just enjoy. :grinning:
 
 
 
