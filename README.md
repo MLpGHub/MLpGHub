@@ -58,6 +58,7 @@ This is the part in my profile where i try short and funny projects to show up s
 <!--
 [![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579)
 -->
-[![Spotify](https://ac15db58fea64da4b4e021c0affbf579.vercel.app/api/spotify)](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579)
+
+[![Spotify](https://spotify-readme-nu.vercel.app/api/spotify)](https://open.spotify.com/user/ac15db58fea64da4b4e021c0affbf579)
 
 
