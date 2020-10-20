@@ -1,6 +1,23 @@
 
 ![Open Source - Development and Design](https://github.com/MLpGHub/MLpGHub/blob/main/images/banner.png)
-# Michael Leopold alias MLp
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+  <h1>
+    <span class="box"></span><span class='hi'>Hi, I'm</span><span class="text"></span><span class="cursor">_</span>
+  </h1>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/TextPlugin.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/EasePack.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
+# Michael Leopold alias MLp 
 ## Open Source - Development and Design
 I'm Michael from Germany, and I do content on Design and Development. I really enjoy learning frameworks and languages like C# and Python, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. Currently I'm studying Mediainformatiks at the University of Applied Science Dresden.
 
