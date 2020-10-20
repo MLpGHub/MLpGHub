@@ -19,7 +19,7 @@
 
 # Michael Leopold alias MLp 
 ## Open Source - Development and Design
-I'm Michael from Germany, and I do content on Design and Development. I really enjoy learning frameworks and languages like C# and Python, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. Currently I'm studying Mediainformatiks at the University of Applied Science Dresden.
+I'm Michael from Germany, and I do content on Design and Development. I really enjoy learning frameworks and languages like C# and Python, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. Currently I'm studying Mediainformatics at the University of Applied Science Dresden. I chose this studies course because it teaches people the correct meaning of Multimedia. Multimedia is a multimodal aggregation of digital media. Which science missed to share with the public.
 
 🌱 I’m currently learning to create shader programs in lwjgl<br><br>
 📫 How to reach me: <a href="michael.leopold@mlphome.de">michael.leopold@mlphome.de</a> <spacer type="horizontal" width="100" height="100">  ♢  </spacer> ![Profile views](https://gpvc.arturio.dev/MLpGHub)  
@@ -70,7 +70,9 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
   </td>
 </table>
 
+### Explore and fun section
+This is the part of my profile where I try short and funny projects to show up some intresting content. Feel free to ignore everthing beneath this topic or just enjoy. :grinning:
 
-
-
-
+#### MLp plays his Spotify for you 🎧
+[![Spotify](https://mlp-now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/1rwyjtho5sesmykxcmb8rt4i0)
+<!-- kommentar -->
