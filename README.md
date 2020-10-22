@@ -47,22 +47,16 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
 ![GitHub metrics](https://metrics.lecoq.io/MLpGHub)  
 
 
-<table style="width:100%">
-  <tr>
-    <td style="background-color: #24292E;"><img src='https://developers.giphy.com/static/img/api.c99e353f761d.gif' alt='smartphone' height='250'> </td>
-    <td style="background-color: #24292E;">
-      <a href="https://github.com/MLpGHub"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-       <a href="https://www.xing.com/profile/Michael_Leopold13/cv"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'></a>
-      <a href="https://www.linkedin.com/in/michael-leopold/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
-      <a href="https://www.autodesk.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autodesk.svg' alt='autodesk' height='40'></a>
-      <a href="https://www.adobe.com/products/premiere.html "><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'></a>
-      <a href="https://www.adobe.com/products/aftereffects.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='40'></a>
-      <a href="https://www.adobe.com/products/audition.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaudition.svg' alt='adobeaudition' height='40'></a>
-      <a href="https://www.adobe.com/products/photoshop.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'></a>
-      <a href="https://www.raspberrypi.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'></a>
-  </td>
-</table>
-
+<img src='https://developers.giphy.com/static/img/api.c99e353f761d.gif' alt='smartphone' height='250'>
+<a href="https://github.com/MLpGHub"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+<a href="https://www.xing.com/profile/Michael_Leopold13/cv"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'></a>
+<a href="https://www.linkedin.com/in/michael-leopold/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+<a href="https://www.autodesk.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autodesk.svg' alt='autodesk' height='40'></a>
+<a href="https://www.adobe.com/products/premiere.html "><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'></a>
+<a href="https://www.adobe.com/products/aftereffects.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='40'></a>
+<a href="https://www.adobe.com/products/audition.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaudition.svg' alt='adobeaudition' height='40'></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'></a>
+<a href="https://www.raspberrypi.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'></a>
 ### Explore and fun section
 This is the part of my profile where I try short and funny projects to show up some intresting content. Feel free to ignore everthing beneath this topic or just enjoy. :grinning:
 
