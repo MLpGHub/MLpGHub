@@ -57,10 +57,3 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
 <a href="https://www.adobe.com/products/audition.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaudition.svg' alt='adobeaudition' height='40'></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'></a>
 <a href="https://www.raspberrypi.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'></a>
-
-### Explore and fun section
-This is the part of my profile where I try short and funny projects to show up some intresting content. Feel free to ignore everthing beneath this topic or just enjoy. :grinning:
-
-#### MLp plays his Spotify for you 🎧
-[![Spotify](https://mlp-now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/1rwyjtho5sesmykxcmb8rt4i0)
-
