@@ -41,12 +41,6 @@ I'm Michael from Germany, and I do content on Design and Development. I really e
 -->
 
 
-<!--
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MLpGHub&show_icons=true&theme=dark)
--->
-![GitHub metrics](https://metrics.lecoq.io/MLpGHub)  
-
-
 <img src='https://developers.giphy.com/static/img/api.c99e353f761d.gif' alt='smartphone' height='250'>
 <a href="https://github.com/MLpGHub"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href="https://www.xing.com/profile/Michael_Leopold13/cv"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'></a>
